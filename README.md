@@ -2,7 +2,7 @@
 
 **e-mail:** info\@drozlembalci.com
 
-**EĞİTİM Bilgileri**
+**EĞİTİM BİLGİLERİ**
 
 | 1998-2006              | Lisans          | Hacettepe Üniversitesi Tıp Fakültesi, Ankara, Türkiye                                                                           |
 |------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -11,15 +11,12 @@
 
 **İŞ DENEYİMLERİ**
 
-· 2006-2007: Tıp Doktoru: Karasu Verem Savaş Dispanseri; Sakarya
-
-· 2007-2013: Çocuk Cerrahisi Asistan Doktor; Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara
-
-· Temmuz 2013- Mart 2014 Research Fellow; Emory Üniversitesi, CHOA, Çocuk Cerrahisi Kliniği; Atlanta, Georgia, ABD
-
-· 2014- 2015 Çocuk Cerrahisi Uzman Doktor; Ankara Eğitim ve Araştırma Hastanesi
-
-· 2015- halen: Çocuk Cerrahisi Uzman Doktor; Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara
+| 2006-2007              | Tıp Doktoru                    | Karasu Verem Savaş Dispanseri; Sakarya                                                                                          |
+|------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 2007-2013              | Çocuk Cerrahisi Asistan Doktor | Dr.Sami Ulus Kadın Doğum, Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara, Türkiye |
+| Temmuz 2013- Mart 2014 | Research Fellow                | Emory University, CHOA, Department of Pediatric Surgery, Atlanta, Georgia; USA                                                  |
+| 2014- 2015             | Çocuk Cerrahisi Uzman Doktor   | Ankara Eğitim ve Araştırma Hastanesi                                                                                            |
+| 2015- halen            | Çocuk Cerrahisi Uzman Doktor   | Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara          |
 
 **  
 **
@@ -30,23 +27,27 @@
 
 **A) Uluslararası hakemli dergilerde yayımlanan makaleler:**
 
-1. B Yağız, S Hancıoğlu, **Ö Balcı**, BD Demirel, A Karaman, Ü Bıçakcı, İF Özgüner, İ Karaman; [Management of perinatal testicular torsion: experience of two tertiary centers.](javascript:void(0)) Pediatr Surg Int. 2020 Aug;36(8):959-963.
+1. Kara Y A, Yağız B, **Balcı Ö**, et al. (April 02, 2021) Comparison of Open Repair and Laparoscopic Percutaneous Internal Ring Suturing Method in Repairing Inguinal Hernia in Children . Cureus 13(4): e14262.
 
-2. [Beytullah Yağız](https://pubmed.ncbi.nlm.nih.gov/?term=Ya%C4%9F%C4%B1z+B&cauthor_id=32119809) , [**Özlem Balcı**](https://pubmed.ncbi.nlm.nih.gov/?term=Balc%C4%B1+%C3%96&cauthor_id=32119809), A Novel Technique for Bladder Wall Fixation in Pneumovesicoscopic Surgery: T-Bar: J Laparoendosc Adv Surg Tech A 2020 May;30(5):603-606.
+2. B Yağız, S Hancıoğlu, **Ö Balcı**, BD Demirel, A Karaman, Ü Bıçakcı, İF Özgüner, İ Karaman; [Management of perinatal testicular torsion: experience of two tertiary centers.](javascript:void(0)) Pediatr Surg Int. 2020 Aug;36(8):959-963.
 
-**3. Özlem Balcı**, İbrahim Karaman, Ayşe Karaman; A Huge Anterior Urethral Diverticulum After Circumcision in a Child: An Unusual Complication of Disposable Plastic Circumcision Device; Journal of Urological Surgery, 2019;6(2):165-167
+3. [Beytullah Yağız](https://pubmed.ncbi.nlm.nih.gov/?term=Ya%C4%9F%C4%B1z+B&cauthor_id=32119809) , [**Özlem Balcı**](https://pubmed.ncbi.nlm.nih.gov/?term=Balc%C4%B1+%C3%96&cauthor_id=32119809), A Novel Technique for Bladder Wall Fixation in Pneumovesicoscopic Surgery: T-Bar: J Laparoendosc Adv Surg Tech A 2020 May;30(5):603-606.
 
-4. Karaman A, **Balcı Ö**, Uysal Ramadan S, Karaman İ. "Y-type urethral duplication presented with perianal fistula in an infant." *Gazi Medical Journal* 28: 58-60 *doi:<http://dx.doi.org/10.12996/gmj.2017>*  (2017). [DOAJ, EMBASE, Scopus]
+**4. Özlem Balcı**, İbrahim Karaman, Ayşe Karaman; A Huge Anterior Urethral Diverticulum After Circumcision in a Child: An Unusual Complication of Disposable Plastic Circumcision Device; Journal of Urological Surgery, 2019;6(2):165-167
 
-5. Jason P. Sulkowski  , Jennifer N. Cooper  , Eileen M. Duggan , **Ozlem Balci** , Seema Anandalwar  , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci  , Katherine J. Deans.' Early versus delayed surgical correction of malrotation in children with critical congenital heart disease' Journal of Pediatric Surgery 50 (2015) 86–91
+5. Karaman A, **Balcı Ö**, Uysal Ramadan S, Karaman İ. "Y-type urethral duplication presented with perianal fistula in an infant." *Gazi Medical Journal* 28: 58-60 *doi:<http://dx.doi.org/10.12996/gmj.2017>*  (2017). [DOAJ, EMBASE, Scopus]
 
-6. Jason P. Sulkowski  , Jennifer N. Cooper  , Eileen M. Duggan , **Ozlem Balci** , Seema Anandalwar  , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci  , Katherine J. Deans.' Does timing of neonatal inguinal hernia repair affect outcomes? Journal of Pediatric Surgery 50 (2015) 171–176
+6. Jason P. Sulkowski  , Jennifer N. Cooper  , Eileen M. Duggan , **Ozlem Balci** , Seema Anandalwar  , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci  , Katherine J. Deans.' Early versus delayed surgical correction of malrotation in children with critical congenital heart disease' Journal of Pediatric Surgery 50 (2015) 86–91
 
-7. Single-Incision Total Proctocolectomy and Ileal Pouch Anal Anastomosis in Pediatric Patients: Lessons Learned; Avraham Schlager, MD, Ragavan V. Siddharthan, Matthew T. Santore, **Ozlem Balci,** Matthew S. Clifton, and Kurt F. Heiss, JOURNAL OF LAPAROENDOSCOPIC & ADVANCED SURGICAL TECHNIQUES Volume 25, Number 9, 2015 Mary Ann Liebert, Inc. DOI: 10.1089/lap.2014.0368
+7. Jason P. Sulkowski  , Jennifer N. Cooper  , Eileen M. Duggan , **Ozlem Balci** , Seema Anandalwar  , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci  , Katherine J. Deans.' Does timing of neonatal inguinal hernia repair affect outcomes? Journal of Pediatric Surgery 50 (2015) 171–176
 
-8. [Evaluation of 968 children with corrosive substance ingestion](https://scholar.google.com.tr/scholar?cluster=8260070831441121299&hl=tr&as_sdt=0,5&sciodt=0,5); [Ibrahim Karaman](http://www.ijccm.org/searchresult.asp?search=&author=Ibrahim+Karaman&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Orhan Koç](http://www.ijccm.org/searchresult.asp?search=&author=Orhan+Ko%E7&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Ayse Karaman](http://www.ijccm.org/searchresult.asp?search=&author=Ayse+Karaman&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Derya Erdogan](http://www.ijccm.org/searchresult.asp?search=&author=Derya+Erdogan&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Yusuf Hakan Çavusoglu](http://www.ijccm.org/searchresult.asp?search=&author=Yusuf+Hakan+%C7avusoglu&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Çagatay Evrim Afsarlar](http://www.ijccm.org/searchresult.asp?search=&author=%C7agatay+Evrim+Afsarlar&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Engin Yilmaz](http://www.ijccm.org/searchresult.asp?search=&author=Engin+Yilmaz&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Ahmet Ertürk](http://www.ijccm.org/searchresult.asp?search=&author=Ahmet+Ert%FCrk&journal=Y&but_search=Search&entries=10&pg=1&s=0), [**Özlem Balci**](http://www.ijccm.org/searchresult.asp?search=&author=%D6zlem+Balci&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Ismet Faruk Özgüner](http://www.ijccm.org/searchresult.asp?search=&author=Ismet+Faruk+%D6zg%FCner&journal=Y&but_search=Search&entries=10&pg=1&s=0) [Indian J Crit Care Med.](https://www.ncbi.nlm.nih.gov/pubmed/?term=Evaluation+of+968+children+with+corrosive+substance+ingestion "Indian journal of critical care medicine : peer-reviewed, official publication of Indian Society of Critical Care Medicine.") 2015 Dec;19(12):714-8  doi: 10.4103/0972-5229.171377.
+8. Single-Incision Total Proctocolectomy and Ileal Pouch Anal Anastomosis in Pediatric Patients: Lessons Learned; Avraham Schlager, MD, Ragavan V. Siddharthan, Matthew T. Santore, **Ozlem Balci,** Matthew S. Clifton, and Kurt F. Heiss, JOURNAL OF LAPAROENDOSCOPIC & ADVANCED SURGICAL TECHNIQUES Volume 25, Number 9, 2015 Mary Ann Liebert, Inc. DOI: 10.1089/lap.2014.0368
 
-9. D Erdogan, **Ö Balcı**, A Karaman, I Karaman, H Cavusoglu; Value of Preoperative Laboratory Tests in Elective Pediatric Outpatient Surgery; Research Article; Pediatrics Research International Journal, Vol. 2013 (2013), Article ID 589490, DOI: 10.5171/2013.589490;
+9. [Evaluation of 968 children with corrosive substance ingestion](https://scholar.google.com.tr/scholar?cluster=8260070831441121299&hl=tr&as_sdt=0,5&sciodt=0,5); [Ibrahim Karaman](http://www.ijccm.org/searchresult.asp?search=&author=Ibrahim+Karaman&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Orhan Koç](http://www.ijccm.org/searchresult.asp?search=&author=Orhan+Ko%E7&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Ayse Karaman](http://www.ijccm.org/searchresult.asp?search=&author=Ayse+Karaman&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Derya Erdogan](http://www.ijccm.org/searchresult.asp?search=&author=Derya+Erdogan&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Yusuf Hakan Çavusoglu](http://www.ijccm.org/searchresult.asp?search=&author=Yusuf+Hakan+%C7avusoglu&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Çagatay Evrim Afsarlar](http://www.ijccm.org/searchresult.asp?search=&author=%C7agatay+Evrim+Afsarlar&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Engin Yilmaz](http://www.ijccm.org/searchresult.asp?search=&author=Engin+Yilmaz&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Ahmet Ertürk](http://www.ijccm.org/searchresult.asp?search=&author=Ahmet+Ert%FCrk&journal=Y&but_search=Search&entries=10&pg=1&s=0), [**Özlem Balci**](http://www.ijccm.org/searchresult.asp?search=&author=%D6zlem+Balci&journal=Y&but_search=Search&entries=10&pg=1&s=0), [Ismet Faruk Özgüner](http://www.ijccm.org/searchresult.asp?search=&author=Ismet+Faruk+%D6zg%FCner&journal=Y&but_search=Search&entries=10&pg=1&s=0) [Indian J Crit Care Med.](https://www.ncbi.nlm.nih.gov/pubmed/?term=Evaluation+of+968+children+with+corrosive+substance+ingestion "Indian journal of critical care medicine : peer-reviewed, official publication of Indian Society of Critical Care Medicine.") 2015 Dec;19(12):714-8  doi: 10.4103/0972-5229.171377.
+
+10. D Erdogan, **Ö Balcı**, A Karaman, I Karaman, H Cavusoglu; Value of Preoperative Laboratory Tests in Elective Pediatric Outpatient Surgery; Research Article; Pediatrics Research International Journal, Vol. 2013 (2013), Article ID 589490, DOI: 10.5171/2013.589490;
+
+ 
 
 **B) Ulusal Hakemli Degilerde Yayınlanan Makaleler**
 
@@ -86,10 +87,6 @@
 
  
 
- 
-
- 
-
 **D. Ulusal Bilimsel Toplantılarda Sunulan Sözlü Bildiriler**
 
 **1)** YA Kara**, Ö Balcı,** A Karaman, İ Karaman; Biliyer Atrezili Hastalarımızın Uzun Dönem Sonuçları; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
@@ -114,9 +111,7 @@
 
 **11)** A Ertürk, İ Karaman, A Karaman, E Yılmaz, Ç E Afşarlar, D Erdoğan, Y H Çavuşoğlu, **Ö Balcı**, İ F Özgüner; Laparotomi Yapılan Hastalarda Brid İleus Risk Faktörleri Ve Tedavi Yaklaşımlarının Değerlendirilmesi*;* 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye
 
-**E. Ulusal bilimsel toplantılarda sunulan poster bildiriler**
-
-|                                                                                                                                                                                                                                                         |
+| **E) Ulusal bilimsel toplantılarda sunulan poster bildiriler**                                                                                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **36)**  D Erdoğan, **Ö Balcı**, A Karaman, İ Karaman, Y H Çavuşoğlu, A Ertürk; Çocuk Cerrahisinde Günübirlik Operasyonlarda Preoperatif Laboratuar Testlerinin Değeri; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye |
 
@@ -128,7 +123,7 @@
 
 **40)  Ö Balcı**, YH Çavuşoğlu, D Erdoğan, S Apaydın, İ Karaman, ÇE Afşarlar, İF Özgüner. Niemann-Pick Hastalığı İle Birlikte Gezici Dalak Olgusu; 29. Ulusal Çocuk Cerrahisi Kongresi ([(PEDURO, Mısır Çocuk Cerrahisi Derneği)](http://www.bildirim.org/yayinlanan/cocukcer2011) 16-19 Mayıs 2011, İstanbul, Türkiye
 
-**F. Sertifikalar**
+**E. Sertifikalar**
 
 **1)** Deney Hayvanları Kullanım Sertifikası; Şubat 2013, Ankara, Türkiye
 
@@ -136,7 +131,7 @@
 
  
 
-**G. Katıldığı Kurslar**
+**F. Katıldığı Kurslar**
 
 **1.** Çocuklarda Rijid Bronkoskopi Kursu; 09-10/04/2017 Ankara; Türkiye
 
@@ -160,7 +155,7 @@
 
  
 
-**H. Topantı, Kongre ve Workshop Katılınları**
+**G. Topantı, Kongre ve Workshop Katılınları**
 
 1. 37. Ulusal Çocuk Cerrahisi Kongresi; 15-19 Ekim 2019; Ankara, Türkiye
 
