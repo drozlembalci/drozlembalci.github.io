@@ -215,7 +215,7 @@
 
 10. Çocuklarda Cerrahi Göğüs Hastalıkları Kursu; Haziran-Eylül 2009, Malatya, Türkiye
 
-## Topantı, Kongre ve Workshop Katılınları
+## Topantı, Kongre ve Workshop Katılımları
 
 1.  37\. Ulusal Çocuk Cerrahisi Kongresi; 15-19 Ekim 2019; Ankara, Türkiye
 
