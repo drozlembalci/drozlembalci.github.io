@@ -1,26 +1,45 @@
-# Op. Dr. Özlem Balcı Pediatrik Cerrahi Uzmanı
+---
+title: "Op. Dr. Özlem Balcı"
+image: "img/Op_Dr_Ozlem_Balci_Pediatrik_Cerrahi.jpeg"
+links:
+- GitHub: "https://github.com/drozlembalci"
+- Email: "mailto:info@ozlembalci.com"
+output:
+  postcards::trestles
+---
+
+**Özlem Balcı**\
+*Türk Hekim, Çocuk Cerrahı.*
 
 **e-mail:** info\@drozlembalci.com
 
 ## **EĞİTİM BİLGİLERİ**
 
-|                        |                 |                                                                                                                                 |
-|------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **Yıl**                | **Derece**      | **Kurum**                                                                                                                       |
-| 1998-2006          | Lisans          | Hacettepe Üniversitesi Tıp Fakültesi, Ankara, Türkiye                                                                           |
++------------------------+-----------------+---------------------------------------------------------------------------------------------------------------------------------+
+| **Yıl**                    | **Derece**          | **Kurum**                                                                                                                           |
++------------------------+-----------------+---------------------------------------------------------------------------------------------------------------------------------+
+| 1998-2006              | Lisans          | Hacettepe Üniversitesi Tıp Fakültesi, Ankara, Türkiye                                                                           |
++------------------------+-----------------+---------------------------------------------------------------------------------------------------------------------------------+
 | 2007-2013              | Tıpta Uzmanlık  | Dr.Sami Ulus Kadın Doğum, Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara, Türkiye |
++------------------------+-----------------+---------------------------------------------------------------------------------------------------------------------------------+
 | Temmuz 2013- Mart 2014 | Research Fellow | Emory University, CHOA, Department of Pediatric Surgery, Atlanta, Georgia; USA                                                  |
++------------------------+-----------------+---------------------------------------------------------------------------------------------------------------------------------+
 
 ## **İŞ DENEYİMLERİ**
 
-|                        |                                |                                                                                                                                 |
-|------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **Yıl**                | **Görev**                      | **Kurum**                                                                                                                       |
++------------------------+--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
+| **Yıl**                    | **Görev**                          | **Kurum**                                                                                                                           |
++------------------------+--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 | 2006-2007              | Tıp Doktoru                    | Karasu Verem Savaş Dispanseri; Sakarya                                                                                          |
++------------------------+--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 | 2007-2013              | Çocuk Cerrahisi Asistan Doktor | Dr.Sami Ulus Kadın Doğum, Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara, Türkiye |
++------------------------+--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 | Temmuz 2013- Mart 2014 | Research Fellow                | Emory University, CHOA, Department of Pediatric Surgery, Atlanta, Georgia; USA                                                  |
++------------------------+--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 | 2014- 2015             | Çocuk Cerrahisi Uzman Doktor   | Ankara Eğitim ve Araştırma Hastanesi                                                                                            |
++------------------------+--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 | 2015- halen            | Çocuk Cerrahisi Uzman Doktor   | Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara          |
++------------------------+--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 
 ## YAYINLAR
 
@@ -36,13 +55,13 @@
 
 5.  Karaman A, Balcı Ö, Uysal Ramadan S, Karaman İ. "Y-type urethral duplication presented with perianal fistula in an infant." Gazi Medical Journal 28: 58-60 <doi:http://dx.doi.org/10.12996/gmj.2017> (2017). [DOAJ, EMBASE, Scopus]
 
-6.  Jason P. Sulkowski , Jennifer N. Cooper , Eileen M. Duggan , Ozlem Balci , Seema Anandalwar , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci , Katherine J. Deans.' Early versus delayed surgical correction of malrotation in children with critical congenital heart disease' Journal of Pediatric Surgery 50 (2015) 86–91
+6.  Jason P. Sulkowski , Jennifer N. Cooper , Eileen M. Duggan , Ozlem Balci , Seema Anandalwar , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci , Katherine J. Deans.' Early versus delayed surgical correction of malrotation in children with critical congenital heart disease' Journal of Pediatric Surgery 50 (2015) 86--91
 
-7.  Jason P. Sulkowski , Jennifer N. Cooper , Eileen M. Duggan , Ozlem Balci , Seema Anandalwar , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci , Katherine J. Deans.' Does timing of neonatal inguinal hernia repair affect outcomes? Journal of Pediatric Surgery 50 (2015) 171–176
+7.  Jason P. Sulkowski , Jennifer N. Cooper , Eileen M. Duggan , Ozlem Balci , Seema Anandalwar , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci , Katherine J. Deans.' Does timing of neonatal inguinal hernia repair affect outcomes? Journal of Pediatric Surgery 50 (2015) 171--176
 
 8.  Single-Incision Total Proctocolectomy and Ileal Pouch Anal Anastomosis in Pediatric Patients: Lessons Learned; Avraham Schlager, MD, Ragavan V. Siddharthan, Matthew T. Santore, Ozlem Balci, Matthew S. Clifton, and Kurt F. Heiss, JOURNAL OF LAPAROENDOSCOPIC & ADVANCED SURGICAL TECHNIQUES Volume 25, Number 9, 2015 Mary Ann Liebert, Inc. DOI: 10.1089/lap.2014.0368
 
-9.  Evaluation of 968 children with corrosive substance ingestion; Ibrahim Karaman, Orhan Koç, Ayse Karaman, Derya Erdogan, Yusuf Hakan Çavusoglu, Çagatay Evrim Afsarlar, Engin Yilmaz, Ahmet Ertürk, Özlem Balci, Ismet Faruk Özgüner Indian J Crit Care Med. 2015 Dec;19(12):714-8  
+9.  Evaluation of 968 children with corrosive substance ingestion; Ibrahim Karaman, Orhan Koç, Ayse Karaman, Derya Erdogan, Yusuf Hakan Çavusoglu, Çagatay Evrim Afsarlar, Engin Yilmaz, Ahmet Ertürk, Özlem Balci, Ismet Faruk Özgüner Indian J Crit Care Med. 2015 Dec;19(12):714-8\
     doi: 10.4103/0972-5229.171377.
 
 10. D Erdogan, Ö Balcı, A Karaman, I Karaman, H Cavusoglu; Value of Preoperative Laboratory Tests in Elective Pediatric Outpatient Surgery; Research Article; Pediatrics Research International Journal, Vol. 2013 (2013), Article ID 589490, DOI: 10.5171/2013.589490;
@@ -53,7 +72,7 @@
 
 2.  Özlem Balcı, Sertaç Akman, İbrahim Karaman, Ayşe Karaman; Volvular Small Bowel Obstruction Due to Meckel's Diverticulum; A Case Report; AATD, 2017; 2(3): 89-92
 
-3.  Ahmet ERTÜRK , İbrahim KARAMAN, Ayşe KARAMAN, Engin YILMAZ, Çağatay Evrim AFŞARLAR, Derya ERDOĞAN, Yusuf Hakan ÇAVUŞOĞLU, Özlem BALCI, İsmet Faruk ÖZGÜNER; Laparotomi yapılan hastalarda brid ileus risk faktörleri ve tedavi yaklaşımlarının değerlendirilmesi; TURKISH JOURNAL of CLINICS and LABORATORY; 2017, Cilt 8, Sayı 4, Sayfalar 191 – 197; DOI: 10.18663/tjcl.354248
+3.  Ahmet ERTÜRK , İbrahim KARAMAN, Ayşe KARAMAN, Engin YILMAZ, Çağatay Evrim AFŞARLAR, Derya ERDOĞAN, Yusuf Hakan ÇAVUŞOĞLU, Özlem BALCI, İsmet Faruk ÖZGÜNER; Laparotomi yapılan hastalarda brid ileus risk faktörleri ve tedavi yaklaşımlarının değerlendirilmesi; TURKISH JOURNAL of CLINICS and LABORATORY; 2017, Cilt 8, Sayı 4, Sayfalar 191 -- 197; DOI: 10.18663/tjcl.354248
 
 4.  Fatma Tuğba GÜVENÇ, Ayşe KARAMAN, Özlem BALCI , İbrahim KARAMAN, Haşim Ata MADEN, Derya ERDOĞAN, İsmet Faruk ÖZGÜNER; Çocukluk Çağında Kolorektal Polipler; AATD, 2017; 1(3): 114-117
 
@@ -101,11 +120,11 @@
 
 8.  Balcı Ö, Karaman A, Karaman İ, Yılmaz E, Çavuşoğlu YH, Erdoğan D, Özgüner İF. "Gastrointestinal sistem anomalisi olan yenidoğanlarda, konjenital hipotiroidi sıklığı artmış mıdır?" 32. Ulusal Çocuk Cerrahisi Kongresi, 17 Eylül-20 Eylül 2014, Trabzon
 
-9.  Ö Balcı, A Karaman, İ Karaman, A Ertürk, E Yılmaz, Ç E Afşarlar, D Erdoğan, Y H Çavuşoğlu, İ F Özgüner; Gastrointestinal Sistem Atrezilerine Eşlik Eden Anomaliler; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye
+9.  Ö Balcı, A Karaman, İ Karaman, A Ertürk, E Yılmaz, Ç E Afşarlar, D Erdoğan, Y H Çavuşoğlu, İ F Özgüner; Gastrointestinal Sistem Atrezilerine Eşlik Eden Anomaliler; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim -- 2 Kasım 2013, Eskisehir, Türkiye
 
-10. F Canpolat, İ F Özgüner, Ö Balcı, D Erdoğan, E Yılmaz, Ç E Afşarlar, A Karaman, İ Karaman, Y H Çavuşoğlu; Çocukluk Çağında Sindirim Sisteminde Yutulan Yabancı Cisimler ve Tedavi Yaklaşımları; 7 Yıllık Klinik Deneyimimiz; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye
+10. F Canpolat, İ F Özgüner, Ö Balcı, D Erdoğan, E Yılmaz, Ç E Afşarlar, A Karaman, İ Karaman, Y H Çavuşoğlu; Çocukluk Çağında Sindirim Sisteminde Yutulan Yabancı Cisimler ve Tedavi Yaklaşımları; 7 Yıllık Klinik Deneyimimiz; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim -- 2 Kasım 2013, Eskisehir, Türkiye
 
-11. A Ertürk, İ Karaman, A Karaman, E Yılmaz, Ç E Afşarlar, D Erdoğan, Y H Çavuşoğlu, Ö Balcı, İ F Özgüner; Laparotomi Yapılan Hastalarda Brid İleus Risk Faktörleri Ve Tedavi Yaklaşımlarının Değerlendirilmesi; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye
+11. A Ertürk, İ Karaman, A Karaman, E Yılmaz, Ç E Afşarlar, D Erdoğan, Y H Çavuşoğlu, Ö Balcı, İ F Özgüner; Laparotomi Yapılan Hastalarda Brid İleus Risk Faktörleri Ve Tedavi Yaklaşımlarının Değerlendirilmesi; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim -- 2 Kasım 2013, Eskisehir, Türkiye
 
 ### E) Ulusal bilimsel toplantılarda sunulan poster bildiriler
 
@@ -179,7 +198,7 @@
 
 35. Nihan Karaman Ayyıldız, Özlem Balcı; İnmemiş Testis ile Birlikte Tam Ürogenital Birleşmeme; Nadir Bir Olgu, 32. Ulusal Çocuk Cerrahisi Kongresi, 17 Eylül-20 Eylül 2014, Trabzon
 
-36. D Erdoğan, Ö Balcı, A Karaman, İ Karaman, Y H Çavuşoğlu, A Ertürk; Çocuk Cerrahisinde Günübirlik Operasyonlarda Preoperatif Laboratuar Testlerinin Değeri; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye
+36. D Erdoğan, Ö Balcı, A Karaman, İ Karaman, Y H Çavuşoğlu, A Ertürk; Çocuk Cerrahisinde Günübirlik Operasyonlarda Preoperatif Laboratuar Testlerinin Değeri; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim -- 2 Kasım 2013, Eskisehir, Türkiye
 
 37. Ö Balcı , E Yılmaz, D Erdoğan, A Karaman, İ Karaman,YH Çavuşoğlu, İF Özgüner YENİDOĞANLARDA PNÖMOTORAKS: PREDİSPOZAN VE PROGNOSTİK FAKTÖRLER.
 
