@@ -41,7 +41,7 @@ output:
 | 2015- halen            | Çocuk Cerrahisi Uzman Doktor   | Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara          |
 +------------------------+--------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
 
-## YAYINLAR
+## YAYINLAR  
 
 ### A) Uluslararası hakemli dergilerde yayımlanan makaleler:
 
