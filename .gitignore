@@ -24,5 +24,10 @@ vignettes/*.pdf
 *.knit.md
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
-drozlembalci.Rproj
-
+cv-awesome-format
+cv-hyndman-format
+cv-markdown-format
+cv-modern-format
+cv-twentyseconds-format
+manzana
+resume
