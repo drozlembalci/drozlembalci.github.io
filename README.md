@@ -20,9 +20,25 @@
 | 2007-2013              | Çocuk Cerrahisi Asistan Doktor | Dr.Sami Ulus Kadın Doğum, Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara, Türkiye |
 | Temmuz 2013- Mart 2014 | Research Fellow                | Emory University, CHOA, Department of Pediatric Surgery, Atlanta, Georgia; USA                                                  |
 | 2014- 2015             | Çocuk Cerrahisi Uzman Doktor   | Ankara Eğitim ve Araştırma Hastanesi                                                                                            |
-| 2015- halen            | Çocuk Cerrahisi Uzman Doktor   | Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara          |
+| 2015- 2021             | Çocuk Cerrahisi Uzman Doktor   | Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara          |
+| Haziran 2021 - Halen   | Çocuk Cerrahisi Başasistan     | Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara          |
 
 ## YAYINLAR
+
+<a
+id="cy-effective-orcid-url"
+class="underline"
+href="https://orcid.org/0000-0002-4926-5451"
+target="orcid.widget"
+rel="me noopener noreferrer"
+style="vertical-align: top">
+<img
+src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+style="width: 1em; margin-inline-start: 0.5em"
+alt="ORCID iD icon"/>
+https://orcid.org/0000-0002-4926-5451
+</a>
+
 
 ### A) Uluslararası hakemli dergilerde yayımlanan makaleler:
 
