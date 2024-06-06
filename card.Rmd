@@ -1,0 +1,354 @@
+---
+title: "Op. Dr. Özlem Balcı"
+image: "img/Op_Dr_Ozlem_Balci_Pediatrik_Cerrahi.jpeg"
+links:
+- GitHub: "https://github.com/drozlembalci"
+- Email: "mailto:info@ozlembalci.com"
+output:
+  postcards::trestles
+---
+
+**Özlem Balcı**\
+*Türk Hekim, Çocuk Cerrahı.*
+
+**e-mail:** info\@drozlembalci.com
+
+## **EĞİTİM BİLGİLERİ**
+
+|                        |                 |                                                                                                                                 |
+|-------------|-------------|-----------------------------------------------|
+| **Yıl**                | **Derece**      | **Kurum**                                                                                                                       |
+| 1998-2006              | Lisans          | Hacettepe Üniversitesi Tıp Fakültesi, Ankara, Türkiye                                                                           |
+| 2007-2013              | Tıpta Uzmanlık  | Dr.Sami Ulus Kadın Doğum, Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara, Türkiye |
+| Temmuz 2013- Mart 2014 | Research Fellow | Emory University, CHOA, Department of Pediatric Surgery, Atlanta, Georgia; USA                                                  |
+
+## **İŞ DENEYİMLERİ**
+
+|                          |                                     |                                                                                                                                      |
+|--------------|--------------|--------------------------------------------|
+| **Yıl**                  | **Görev**                           | **Kurum**                                                                                                                            |
+| 2006-2007                | Tıp Doktoru                         | Karasu Verem Savaş Dispanseri; Sakarya                                                                                               |
+| 2007-2013                | Çocuk Cerrahisi Asistan Doktor      | Dr.Sami Ulus Kadın Doğum, Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği; Ankara, Türkiye      |
+| Temmuz 2013- Mart 2014   | Research Fellow                     | Emory University, CHOA, Department of Pediatric Surgery, Atlanta, Georgia; USA                                                       |
+| 2014- 2015               | Çocuk Cerrahisi Uzman Doktor        | Ankara Eğitim ve Araştırma Hastanesi; Ankara, Türkiye                                                                                |
+| 2015- 2021               | Çocuk Cerrahisi Uzman Doktor        | SBÜ, Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği, Ankara, Türkiye |
+| Haziran 2021- Eylül 2022 | Çocuk Cerrahisi Kliniği Başasistanı | SBÜ, Dr. Sami Ulus Kadın Doğum Çocuk Sağlığı ve Hastalıkları Eğitim ve Araştırma Hastanesi; Çocuk Cerrahisi Kliniği, Ankara, Türkiye |
+| Eylül 2022- Şubat 2024   | Çocuk Cerrahisi Kliniği Başasistanı | Etlik Şehir Hastanesi; Ankara, Türkiye                                                                                               |
+| Mart 2024- Halen         | Çocuk Cerrahisi Kliniği Başasistanı | SBÜ, Zeynep Kamil Kadın Doğum ve Çocuk Hastalıkları Eğitim ve Araştırma Hastanesi, İstanbul, Türkiye                                 |
+
+
+
+## AKADEMİK YAYINLAR
+
+<a
+id="cy-effective-orcid-url"
+class="underline"
+href="https://orcid.org/0000-0002-4926-5451"
+target="orcid.widget"
+rel="me noopener noreferrer"
+style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" style="width: 1em; margin-inline-start: 0.5em"/> https://orcid.org/0000-0002-4926-5451 </a>
+
+
+### A) Uluslararası hakemli dergilerde yayımlanan makaleler:
+
+
+1.	Özlem Balcı, İbrahim Karaman, Ayşe Karaman; Infra‑areolar subcutaneous mastectomy in the surgical treatment of adolescent gynecomastia; Pediatric Surgery International (2024) 40:92 <https://doi.org/10.1007/s00383-024-05671-7>
+
+2.	Raziye Merve Yaradılmış, Aytaç Göktuğ, Ali Güngör, İlknur Bodur, M. Mustafa Güneylioğlu, Betül Öztürk, Özlem Balcı, Derya Erdoğan, Can Demir Karacan, Nilden Tuygun; Evaluation of Corrosive Substance Ingestion in the Pediatric Emergency Department; J Pediatr Emerg Intensive Care Med 2023;10:15-9, DOI: 10.4274/cayd.galenos.2022.32154
+
+3.	Ergun Ergun, Yusuf Alper Kara , Beytullah Yagiz, Sila Ispir Karalar, Ozlem Balci and Ismet Faruk Ozguner; An innovative use of PIRS technique for pediatric femoral hernia: report of 2 cases; Annals of Pediatric Surgery (2022) 18:65 https://doi.org/10.1186/s43159-022-00208-w
+
+4.	Ibrahim Karaman, Yusuf Alper Kara, Ozlem Balci, Ahmet Ozyazici, Burcu Keles, Yasemin Tasci Yildiz, Ayse Karaman; Congenital retroperitoneal immature teratoma in a male neonate: a case report; Journal of Pediatric and Neonatal Individualized Medicine 2022;11(1):e110136 doi: 10.7363/110136
+
+5.	Esra Öztürk, Özlem Balcı, Mutlu Uysal Yazıcı, Seda Kaynak Şahap, Ayşe Karaman; Two Infant Cases Admitted with Atypical Presentation and Diagnosed as Type IV Hiatal Hernia; J Pediatr Emerg Intensive Care Med 2022;9:138-42 DOI: 10.4274/cayd.galenos.2021.82787
+
+6.	Ergün E, Yağız B, Kara YA, Abay AN, Balcı Ö, Eryılmaz S, et al. Comparison of laparoscopic percutaneous internal ring suturing method and open inguinal hernia repair in children under 3 months of age. Turk J Surg 2021; 37 (3): 215-221
+
+7.	M Anayurt, A Karaman, Ö Balcı, İF Özgüner, İ Karaman; The effects of hesperidin on stricture formation in corrosive esophageal burns: an experimental study; Esophagus https://doi.org/10.1007/s10388-021-00861-x
+
+8.	Balci O, Karaman A, Karimli B, Çaglar O, Aksoy N, Tok A, Karacan CD, Özgüner IF, Karaman I; COVID-19 pandemic and lockdown: what has changed in common home accidents such as foreignbodies and corrosive injuries?; Pediatric Surgery International https://doi.org/10.1007/s00383-022-05210-2
+
+9.	İbrahim Karaman, Selma Uysal Ramadan, Ayşegül Zenciroğlu, Özlem Balcı, Ayşe Karaman; Association of Communicating Extralobar Bronchopulmonary Sequestration with Intralobar Sequestration in a Patient Who had Anal Atresia;  Int J Acad Med Pharm, 2021; 3 (1); 92-94.
+
+10.	Kara Y A, Yağız B, Balcı Ö, et al. (April 02, 2021) Comparison of Open Repair and Laparoscopic Percutaneous Internal Ring Suturing Method in Repairing Inguinal Hernia in Children. Cureus 13(4): e14262. DOI 10.7759/cureus.14262
+
+11.	B Yağız, S Hancıoğlu, Ö Balcı, BD Demirel, A Karaman, Ü Bıçakcı, İF Özgüner, İ Karaman; Management of perinatal testicular torsion: experience of two tertiary centers. Pediatr Surg Int. 2020 Aug;36(8):959-963.
+
+12.	Beytullah Yağız , Özlem Balcı, A Novel Technique for Bladder Wall Fixation in Pneumovesicoscopic Surgery: T-Bar: J Laparoendosc Adv Surg Tech A 2020 May;30(5):603-606.
+
+13.	Özlem Balcı, İbrahim Karaman, Ayşe Karaman; A Huge Anterior Urethral Diverticulum After Circumcision in a Child: An Unusual Complication of Disposable Plastic Circumcision Device; Journal of Urological Surgery, 2019;6(2):165-167
+
+14.	Karaman A, Balcı Ö, Uysal Ramadan S, Karaman İ. “Y-type urethral duplication presented with perianal fistula in an infant.” Gazi Medical Journal 28: 58-60 doi:http://dx.doi.org/10.12996/gmj.2017  (2017). [DOAJ, EMBASE, Scopus]
+
+15.	Jason P. Sulkowski  , Jennifer N. Cooper  , Eileen M. Duggan , Ozlem Balci , Seema Anandalwar  , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci  , Katherine J. Deans.’ Early versus delayed surgical correction of malrotation in children with critical congenital heart disease’ Journal of Pediatric Surgery 50 (2015) 86–91
+
+16.	Jason P. Sulkowski  , Jennifer N. Cooper  , Eileen M. Duggan , Ozlem Balci , Seema Anandalwar  , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci  , Katherine J. Deans.’ Does timing of neonatal inguinal hernia repair affect outcomes? Journal of Pediatric Surgery 50 (2015) 171–176
+
+17.	Single-Incision Total Proctocolectomy and Ileal Pouch Anal Anastomosis in Pediatric Patients: Lessons Learned; Avraham Schlager, MD, Ragavan V. Siddharthan, Matthew T. Santore, Ozlem Balci, Matthew S. Clifton, and Kurt F. Heiss, JOURNAL OF LAPAROENDOSCOPIC & ADVANCED SURGICAL TECHNIQUES Volume 25, Number 9, 2015 Mary Ann Liebert, Inc. DOI: 10.1089/lap.2014.0368
+
+18.	Evaluation of 968 children with corrosive substance ingestion; Ibrahim Karaman, Orhan Koç, Ayse Karaman, Derya Erdogan, Yusuf Hakan Çavusoglu, Çagatay Evrim Afsarlar, Engin Yilmaz, Ahmet Ertürk, Özlem Balci, Ismet Faruk Özgüner Indian J Crit Care Med. 2015 Dec;19(12):714-8  doi: 10.4103/0972-5229.171377.
+
+19.	D Erdogan, Ö Balcı, A Karaman, I Karaman, H Cavusoglu; Value of Preoperative Laboratory Tests in Elective Pediatric Outpatient Surgery; Research Article; Pediatrics Research International Journal, Vol. 2013 (2013), Article ID 589490, DOI: 10.5171/2013.589490
+
+
+
+
+### B) Ulusal Hakemli Degilerde Yayınlanan Makaleler
+
+
+1.	Özlem Balcı; Depremde Yaralanan Çocukların Değerlendirilmesi, Çocuk Cerrahisi Yaklaşımı; Türk Nöroşir Derg 33(2):159-164, 2023
+
+2.	Merve Duman Küçükkuray, Özlem Balcı, Beytullah Yağız, Ergun Ergün; The Importance of Clinical Examination in a Case of İmperforate Hymen Case Mimicking Ovarian Torsion; Ankara Üniversitesi Tıp Fakültesi Mecmuası 2020;73(1):93-95.
+
+3.	Özlem Balcı, Sertaç Akman, İbrahim Karaman, Ayşe Karaman; Volvular Small Bowel Obstruction Due to Meckel's Diverticulum; A Case Report, AATD, 2017; 2(3): 89-92
+
+4.	Ahmet ERTÜRK , İbrahim KARAMAN, Ayşe KARAMAN, Engin YILMAZ, Çağatay Evrim AFŞARLAR, Derya ERDOĞAN, Yusuf Hakan ÇAVUŞOĞLU, Özlem BALCI, İsmet Faruk ÖZGÜNER; Laparotomi yapılan hastalarda brid ileus risk faktörleri ve tedavi yaklaşımlarının değerlendirilmesi; TURKISH JOURNAL of CLINICS and LABORATORY; 2017, Cilt 8, Sayı 4, Sayfalar 191 – 197; DOI: 10.18663/tjcl.354248
+
+5.	Fatma Tuğba GÜVENÇ, Ayşe KARAMAN, Özlem BALCI, İbrahim KARAMAN, Haşim Ata MADEN, Derya ERDOĞAN, İsmet Faruk ÖZGÜNER; Çocukluk Çağında Kolorektal Polipler, AATD, 2017; 1(3): 114-117
+
+6.	Sertaç AKMAN, Ayşe KARAMAN, İbrahim KARAMAN, Özlem BALCI, Haşim Ata MADEN, Derya ERDOĞAN, İsmet Faruk ÖZGÜNER; Çocuklarda Foley Kateteri Tekniği ile Künt Özofageal Yabancı Cisim Çıkarılmasındaki Deneyimlerimiz: AATD, 2016; 1(2): 57-60. 
+
+7.	Balcı Ö, Karaman A, Şahin G, Karaman İ, Bozkurt C, Ertürk A, Çavuşoğlu YH, Yeşil Ş, Özgüner İF, Aycan Z, Erdoğan D. “Çocuklarda testis tümörleri: tek merkez deneyimi.” Türkiye Çocuk Hastalıkları Dergisi DOI: 10.12956/tjpd.2015.130
+
+8.	Ertürk A, Karaman A, Balcı Ö, Karaman İ, Çavuşoğlu YH, Özgüner İF, Yağız B, Taşçı Yıldız Y, Erdoğan D. “Çocuklarda direkt batın grafisi ile ultrason bulgularının apandisit tanısındaki değeri” Türkiye Çocuk Hastalıkları Dergisi, DOI:10.12956/tjpd.2014.99 (2014).
+
+9.	Ertürk A, Tuncer İS, Balcı Ö, Karaman İ, Karaman A, Afşarlar ÇE, Yılmaz E, Özgüner İF, Çavuşoğlu YH, Erdoğan D. “Çocuk apandisitlerinin tanısında pediatrik apandisit skoru ve laboratuvar bulgularının değeri” Türkiye Çocuk Hastalıkları Dergisi DOI:10.12956/tjpd.2014.103 (2014).
+
+10.	 Balcı Ö, Karaman A, Ertürk A, Karaman İ, Yılmaz E, Çavuşoğlu YH, Erdoğan D, Anayurt M, Özgüner İF. “Puberte öncesi kız çocuklarında labial füzyon” Türkiye Çocuk Hastalıkları Dergisi DOI:10.12956/tjpd.2014.108 (2014). 
+
+11.	 Ö Balcı, YH Çavuşoğlu, D Erdoğan, S Apaydın, İ Karaman, ÇE Afşarlar, İF Özgüner. Wandering Spleen with Niemann-Pick Disease; Journal of Pediatric Diseases (DOI: 10.12956 / tjpd.2013.06).
+
+
+
+
+### C) Uluslararası bilimsel toplantılarda sunulan ve bildiri kitabında (Proceedings) basılan bildiriler:
+
+
+
+1.	Balcı Ö, Abay AN, Yeşil Ş, Karaman İ, Özgüner İF, Kurucu B, Erdoğan D, Şahin G, Karaman A; ‘Changing trends from radical inguinal orchiectomy to testis-sparing surgery in childhood testicular tumors’, 7th World Conress of Padiatric Surgery ( WOFAPS 2022, Prag/ Çek Cumhuriyeti [SB]
+
+2.	YA Kara, Ö Balcı, A Karaman, İ Karaman; Biliyer Atrezili Hastalarımızın Uzun Dönem Sonuçları; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara [SB]
+
+3.	Ö Balcı, A Karaman, S Çetinkaya, Ş Savaş Erdeve, N Arda, İ Karaman, Z Aycan, Y-Kromozomlu Gonadal Disgeneziler; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara [SB]
+
+4.	M Anayurt, A Karaman, Ö Balcı, İF Özgüner, İ Karaman; Özefagus Korozyonlarında Hesperidinin Striktür Gelişimi Üzerine Etkisi; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara [SB]
+
+5.	Ö Balcı, E Ergun; Önemli Çocuk Cerrahisi Dergilerinde Son 40 Yılda Türkiye’den yayınlanan Makalelerin Dünya Literatürü ile Karşılaştırılması; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara [SB]
+
+6.	İH Aydın, A Karaman, S Çetinkaya, Ş Savaş Erdeve, Ö Balcı, İ Karaman; Pubertal Jinekomasti; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara [SB]
+
+7.	S İspir Karalar, M Duman Küçükkuray, YA Kara, B Yağız, Ö Balcı ve ark; Yenidoğanlarda Mide Perforasyonu: Tek Merkez deneyimi ; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara [SB]
+
+8.	Yağız B, Balcı Ö, Karaman İ, Akman S, Özgüner İF, Erdoğan D, Ergün E, Maden HA, Karaman A. "Ele gelmeyen inmemiş testisde laparoskopik yaklaşım." 36. Ulusal Çocuk Cerrahisi Kongresi ve 3. Uluslararası Pediatrik Endoskopik Cerrahi Grubu - Ortadoğu Bölümü Kongresi 24-27 Ekim 2018, İzmir [SB]
+
+9.	Jason P Sulkowski, Jennifer N Cooper, Eileen M Duggan, Ozlem Balci, Seema Anandalwar, Martin L Blakely, Kurt Heiss, Shawn Rangel, Katherine J Deans, Peter C Minneci; Timing of Ladd’s Procedure in Patients with Critical Congenital Heart Disease; APSA 45th Annual Meeting, May 29- June 1 2014, Phoenix, Arizona, USA
+
+10.	Jason P Sulkowski, Jennifer N Cooper, Eileen M Duggan, Ozlem Balci, Seema Anandalwar, Martin L Blakely, Kurt Heiss, Shawn Rangel, Peter C Minneci, Katherine J Deans; Early versus Delayed Repair for Neonatal Inguinal Hernia; APSA 45th Annual Meeting, May 29- June 1, 2014, Phoenix, Arizona, USA
+
+11.	Avraham Schlager, Matthew T. Santore, Ozlem Balci, Drew A. Rideout, Kurt F. Heiss, Matthew S. Clifton, Emory University/Children’s Healthcare of Atlanta; Feasibility of single incision 3 stage total proctocolectomy and ileal pouch anal anastomosis;ipeg’s 23rd Annual Congress for Endosurgery in Children, July 22-26, 2014  EDINBURGH, SCOTLAND
+
+12.	Avraham Schlager, Ozlem Balci, Matthew T. Santore, Mark L. Wulkan, Emory University School of Medicine/Children’s Healthcare of Atlanta; Thoracoscopic aortopexy for tracheomalacia: demonstrating feasibility and efficacy; IPEG’s 23rd Annual Congress for Endosurgery in Children ,  July 22-26, 2014  EDINBURGH, SCOTLAND
+
+13.	Karaman A, Balcı Ö, Ardıçlı B, Arda N, Uysal Ramadan S, Karaman İ. “Complete urethral duplication presented with perineal fistula in an infant.” 12th Balkan Congress of Radiology; October 16-19, 2014; Istanbul.
+
+
+
+### D) Ulusal Bilimsel Toplantılarda Sunulan Sözlü Bildiriler
+
+
+1.	G Biçer, B Karımlı, BA Köse, Ö Balcı, G Şahin, A Karaman; ‘Rapunzel sendromu: Dikkat! Sadece saç olmayabilir’ 7. Bahar Pediatri Kongresi; 7-9 Mayıs 2024, Adana
+
+2.	Ö Balcı, İ Karaman, Ö Bolat, G Şahin, A Karaman; ‘Çocukluk çağı over tümörleri; 87 vakalık tek merkez deneyimi’ 7. Bahar Pediatri Kongresi; 7-9 Mayıs 2024, Adana
+
+3.	Ö Balcı, B Karımlı, A Karaman, İ Karaman; ‘Çocukluk çağında Müllerian kanal anomalileri’ 7. Bahar Pediatri Kongresi; 7-9 Mayıs 2024, Adana
+
+4.	Ö Balcı, A Karaman, AN Abay, İ Karaman; ‘Yenidoğan intestinal perforayonları: Hangi hastadan rektal biyopsi alalım?’, 40. Ulusal Çocuk Cerrahisi Kongresi; 26-29 Ekim 2023, Ankara [SB]
+
+5.	Ö Balcı, İ Karaman, Ö Bolat, G Şahin, A Karaman; ‘Çocukluk çağı over tümörlerinin cerrahi yönetimi: 87 vakalık tek merkez deneyimi’, 39. Ulusal Çocuk Cerrahisi Kongresi; 02-05 Kasım 2022, Kuşadası [SB]
+
+6.	Ö Balcı, İ Karaman, A Karaman; ‘Hirschsprung hastalığında transanal endorektal pull-trough ameliyatının uzun dönem sonuçları’, 39. Ulusal Çocuk Cerrahisi Kongresi; 02-05 Kasım 2022, Kuşadası [SB]
+
+7.	YA kara, İ Karaman, MD Küçükkuray, Ö Çağlar, Ö Balcı; ‘Adölesan varikosellerinde laparoskopik ve mikrocerrahi subinguinal varikoselektominin başarı oranı ve komplikasyonlarının değerlendirilmesi’, 12. Ulusal Çocuk Ürolojisi Kongresi; 02-05 Kasım 2022, Kuşadası [SB]
+
+8.	B Yağız, Ö Balcı, E Ergün, A Karaman; ‘Adneks torsiyonu ile başvuran paratubal kistin laparoskopik eksizyonu; seröz kistadenofibroma’ 9. Ulusal Çocuk Ürolojisi Kongresi; 03-06 Mayıs 2018, Adana [SB]
+
+9.	B Yağız, Ö Balcı, İ Karaman, İF Özgüner; ‘İnguinal orşiektomi yapılmış bir hastada intraabdominal testis; ürogenital non-union ya da poliorşidizim’ 9. Ulusal Çocuk Ürolojisi Kongresi; 03-06 Mayıs 2018, Adana [SB]
+
+10.	Ö Balcı, S Akman, A Karaman, İ Karaman, D Erdoğan, B Yağız, HA Maden, E Yılmaz, İF Özgüner; MECKEL DİVERTİKÜLLERİNİN KLİNİK ÖZELLİKLERİNİN DEĞERLENDİRİLMESİ: 10 YILLIK DENEYİMİMİZ; 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne [SB]
+
+11.	FT Güvenç, S Akman, Ö Balcı, A Karaman, MA Uğur, M Duman, S İspir Karalar, İ Karaman; Üretranın Beklenmedik Yolcusu: Toplu İğne; 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne (OS)
+
+12.	A Karaman, Ö Balcı, MA Uğur, İ Karaman; Situs İnversus Totalis, İntestinal Ters Rotasyon, Preduodenal Portal Ven, Duodenal Atrezi, Polispleni ve Kompleks Kardiyak Anomali Birlikteliği, 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne (OS)
+
+13.	A Karaman, Ö Balcı, S Apaydın, Z Aycan, İ Karaman; Akut skrotumun tahmin edilemez nedeni; 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne (OS)
+
+14.	Balcı Ö, Karaman A, Karaman İ, Yılmaz E, Çavuşoğlu YH, Erdoğan D, Özgüner İF. “Gastrointestinal sistem anomalisi olan yenidoğanlarda, konjenital hipotiroidi sıklığı artmış mıdır?” 32. Ulusal Çocuk Cerrahisi Kongresi, 17 Eylül-20 Eylül 2014, Trabzon  [SB]
+
+15.	 Ö Balcı, A Karaman, İ Karaman, A Ertürk, E Yılmaz, Ç E Afşarlar, D Erdoğan, Y H Çavuşoğlu, İ F Özgüner; Gastrointestinal Sistem Atrezilerine Eşlik Eden Anomaliler; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye [SB]
+
+16.	 F Canpolat, İ F Özgüner, Ö Balcı, D Erdoğan, E Yılmaz, Ç E Afşarlar, A Karaman, İ Karaman, Y H Çavuşoğlu; Çocukluk Çağında Sindirim Sisteminde Yutulan Yabancı Cisimler ve Tedavi Yaklaşımları; 7 Yıllık Klinik Deneyimimiz; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye [SB]
+
+17.	 A Ertürk, İ Karaman, A Karaman, E Yılmaz, Ç E Afşarlar, D Erdoğan, Y H Çavuşoğlu, Ö Balcı, İ F Özgüner; Laparotomi Yapılan Hastalarda Brid İleus Risk Faktörleri Ve Tedavi Yaklaşımlarının Değerlendirilmesi; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye [SB]
+
+
+
+
+### E) Ulusal bilimsel toplantılarda sunulan poster bildiriler
+
+
+1.	G Biçer, BA Köse, Ö Çağlar, Ö Balcı; ‘ Geç tanı alan konjenital diyafram hernilerindeki büyük tehlike; Akut gastrik volvulus’ 40. Ulusal Çocuk Cerrahisi Kongresi; 26-29 Ekim 2023, Ankara
+
+2.	YA Kara, B Yağız, A Karaman, Ö Balcı, İF Özgüner, İ Karaman; ‘Rastlantısal saptanan inguinal herni: Onaralım mı? Bekleyelim mi?’ 38. Ulusal Çocuk Cerrahisi Kongresi, 25-28 Kasım 2021 Antalya
+
+3.	YA Kara, MD Küçükkuray, Ö Balcı, AN Abay, AK Şahap, İ Karaman, A Karaman; ‘Çocuklarda travmatik testis rüptürü: iki olgunun sunumu’, 38. Ulusal Çocuk Cerrahisi Kongresi, 25-28 Kasım 2021 Antalya
+
+4.	AN Abay, Ö Çağlar, Ö Balcı, E Doğan, İ Karaman, A Karaman; ‘Çocuklarda perianal fistül’, 38. Ulusal Çocuk Cerrahisi Kongresi, 25-28 Kasım 2021 Antalya
+
+5.	YA Kara, Ö Balcı, A Karaman, G Şahin, İ Karaman; Biliyer atrezi polispleni sendromuna eşlik eden situs inversus totatis, intestinal malrotasyon, kompleks kardiyak anomali ve portal ven anomalisi; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+6.	S Akman, A Karaman, Ö Balcı, İF Özgüner, İ Karaman; İnmemiş Testis; Türkiye’de bir üçüncü basamak hastanenin çeyrek yüzyıllık klinik deneyimleri; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+7.	E Ergün, YA Kara, SU Çelik, B Yağız, Ö Balcı ve ark.; Çocuklarda pilonidal sinüs tedavisinde fenol uygulaması ve Limberg Flep yönteminin karşılaştırılması; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+8.	S İspir Karalar, Ö Balcı, A Karaman, İ Karaman; Kolon duvarında inflamatuar myofibroblastik tümör; olgu sunumu; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+9.	İ Karaman, YA Kara, Ö Balcı, A Özyazıcı, B Keleş, Y Taşçı Yıldız, A Karaman; Yenidoğanda konjenital retroperitoneal immetür teratom: 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+10.	A Karaman, Ö Balcı, D Dilli, H Akduman, P Tokdemir Çalış, BE Derinkuyu, İ Karaman; Konjenital anterolateral diyafram hernisi; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+11.	AN Abay, Ö Balcı, B Yağız, A Karaman; Kronik karın ağrısı ayırıcı tanısında bezoar; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+12.	İH Aydın, E Ergün, YA Kara, B Yağız, Ö Balcı, İF Özgüner; İmmun sistemi bakılanmış çocuklarda ender bir antite; Fungal Apandisit; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+13.	E Doğan, Ö Balcı, YA Kara, İ Karaman; Akut karının nadir bir nedeni; Hidrosalpinks ve tubal torsiyon; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+14.	M Duman Küçükkuray, İH Aydın, YA Kara, Ö Balcı, B Yağız, E Ergün; Over torsiyonunu taklit eden imperfore himen olgusu; fizik muayenenin önemi; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+15.	AN Abay, Ö Balcı, İ Karaman, A Karaman; Adölesan bir hastada geç tanı alan bochdalek hernisi; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+16.	M Duman Küçükkuray, Ö Balcı, E Ergün, İ Karaman; Süt çocuğunda incebarsak tıkanıklığının nadir bir nedeni; geç bulgu veren jejunal atrezi olgusu; 37. Ulusal Çocuk Cerrahisi Kongresi/ STEPS 2019, 15-19 Ekim 2019 Ankara
+
+17.	 Karaman A, Balcı Ö, Uysal Ramadan S, Güngör Ö, Karaman İ. “Penetrating abdominal gunshot injury: where is the bullet?” XVI. Balkan Congress of Radiology, October 4 and 6, 2018, Kuşadası, Turkey.
+
+18.	 Yağız B, Balcı Ö, Güngör Ö, Karaman İ, Uysal Ramadan S, Karaman A. “Apendiceal stump fistula presenting as late onset surgical site infection in a child.” XVI. Balkan Congress of Radiology, October 4 and 6, 2018, Kuşadası, Turkey.
+
+19.	 Balcı Ö, Karaman A, Yağız B, Ergün E, Karaman İ. "Çocuklarda safra yolları perforasyonları." 36. Ulusal Çocuk Cerrahisi Kongresi ve 3. Uluslararası Pediatrik Endoskopik Cerrahi Grubu - Ortadoğu Bölümü Kongresi 24-27 Ekim 2018, İzmir [P]
+
+20.	 Ergun E,Kara YA, Balcı Ö, B Yağız, S İspir Karalar, İF Özgüner. “Pediatrik femoral herni onarımında yeni teknik, tek portlu optik forceps yardımlılaparoskopik perkütanöz ekstraperitoneal onarım” 36. Ulusal Çocuk Cerrahisi Kongresi ve 3. Uluslararası Pediatrik Endoskopik Cerrahi Grubu - Ortadoğu Bölümü Kongresi 24-27 Ekim 2018, İzmir [P]
+
+21.	 S İspir Karalar, B Yağız, Ö Balcı, A Karaman, S Akman, M Duman, YA Kara, İ Karaman; Karın Ağrısında Genital Muayenenin Önemi: Atlanmış Bir Testis Torsiyonu Olgusu, 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne
+
+22.	 A Karaman, S Uysal Ramadan, Ö Balcı, S Akman, İ Karaman; Premenarşal Kız Çocukta Herlyn-Werner-Wunderlich sendromu, 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne
+
+23.	 S Uysal Ramadan, Ö Balcı, M Çiftçi, A Karaman; Prenatal testis torsiyonu: ultrason tanı koyma ve tedaviyi yönlendirmede etkili mi?, 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne
+
+24.	 A Karaman, Ö Balcı, F Özbay Hoşnut, G Şahin, G Şahin, İ Karaman; AML Tedavisinde Beklenmeyen Komplikasyon: Duodenojejunal Striktür, 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne
+
+25.	 A Karaman, Ö Balcı, FT Güvenç, İH Aydın, HA Maden, G Şahin, İ Karaman; Wilms Tümöründe Agresif İntratorasik ve Pelvik Retroperitoneal Relaps, 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne
+
+26.	 FT Güvenç, A Karaman, B Yağız, Ö Balcı, İ Karaman, İF Özgüner; Dikkat !!! Abdomen Bilgisayarlı Tomografi "Girdap İşareti", 35. Çocuk Cerrahisi Kongresi, 25-28 Ekim 2017, Edirne
+
+27.	 Karaman A, Balcı Ö, Karaman İ, Özgüner İF. “İnguinal herni içerisinde Meckel divertikülü strangülasyonu (Littre fıtığı).” 7. Ulusal Pediatrik Üroloji Kongresi, 26-30 Ekim 2016, Girne, KKTC
+
+28.	 Akman S, Karaman A, Karaman İ, Balcı Ö, Ardıçlı B, Özgüner İF. “Alışılmadık bir bronş yabancı cismi: plastik kalem ucu.” 34. Ulusal Çocuk Cerrahisi Kongresi, 26-30 Ekim 2016, Girne, KKTC
+
+29.	 Ardıçlı B, Erdoğan D, Yılmaz E, Karaman İ, Maden HA, Karaman A, Balcı Ö, Özgüner İF. “İyi huylu over lezyonlarında klinik deneyimimiz.” 34. Ulusal Çocuk Cerrahisi Kongresi, 26-30 Ekim 2016, Girne, KKTC
+
+30.	 Karaman A, Balcı Ö, Karaman İ. “Abdomene penetre ateşli silah yaralanması: mermi nerede?” 34. Ulusal Çocuk Cerrahisi Kongresi, 26-30 Ekim 2016, Girne, KKTC
+
+31.	 Güvenç FT, Karaman A, Balcı Ö, Karaman İ, Erdoğan D, Özgüner İF. “Çocukluk çağında kolorektal polipler.” 34. Ulusal Çocuk Cerrahisi Kongresi, 26-30 Ekim 2016, Girne, KKTC
+
+32.	 Balcı Ö, Akman S, Karaman A, Özgüner İF. “Batın içi kitlenin nadir bir nedeni: mezenterik Castleman hastalığı.” 34. Ulusal Çocuk Cerrahisi Kongresi, 26-30 Ekim 2016, Girne, KKTC
+
+33.	 Karaman A, Balcı Ö, Karaman İ. “İnfantta spontan koledok kisti perforasyonuna bağlı safra peritoniti.” 34. Ulusal Çocuk Cerrahisi Kongresi, 26-30 Ekim 2016, Girne, KKTC
+
+34.	 FT Güvenç, Ö Balcı, A Karaman, İ Karaman, YH Çavuşoğlu; Geç Bulgu Veren Konjenital Diyafram Hernisi; Akut İntratorasik Mide Volvulusu Şeklinde Bulgu Veren Nadir Bir Olgu; 33. Çocuk Cerrahisi Kongresi, 28-31 Ekim 2015, Antalya-Belek
+
+35.	 Ö Balcı, A Karaman, İ Karaman, S Akman, İF Özgüner; Swyer sendromu olan bir kız hastada insidental gonadoblastom; olgu sunumu, 33. Çocuk Cerrahisi Kongresi, 28-31 Ekim 2015, Antalya-Belek
+
+36.	 Nihan Karaman Ayyıldız, Özlem Balcı; İnmemiş Testis ile Birlikte Tam Ürogenital Birleşmeme; Nadir Bir Olgu, 32. Ulusal Çocuk Cerrahisi Kongresi, 17 Eylül-20 Eylül 2014, Trabzon
+
+37.	 D Erdoğan, Ö Balcı, A Karaman, İ Karaman, Y H Çavuşoğlu, A Ertürk; Çocuk Cerrahisinde Günübirlik Operasyonlarda Preoperatif Laboratuar Testlerinin Değeri; 31. Ulusal Çocuk Cerrahisi Kongresi; 30 Ekim – 2 Kasım 2013, Eskisehir, Türkiye
+
+38.	 Ö Balcı , E Yılmaz, D Erdoğan, A Karaman, İ Karaman,YH Çavuşoğlu, İF Özgüner ; Yenidoğanlarda pnömotoraks: Predispozan ve prognostik faktörler. 30. Ulusal Çocuk Cerrahisi Kongresi; 17-20 Ekim 2012, Ankara, Türkiye
+
+39.	 E Yılmaz , ÇE Afşarlar, İ Karaman,Ö Balcı, A KaramanUmbilikal kord hernisi ve ileal atrezi birlikteliği : kese içinde distal atrezik ucu perfore bir olgu 30. Ulusal Çocuk Cerrahisi Kongresi; 17-20 Ekim 2012, Ankara, Türkiye
+
+40.	 Ö Balcı, Erdoğan D, Çavuşoğlu YH, S Apaydın, A Karaman, İ Karaman, İF Özgüner; Nadir bir olgu sunumu : Yenidoğanda intestinal perforasyonla seyreden bir total kolonik duplikasyon olgusu; 29. Ulusal Çocuk Cerrahisi Kongresi ((PEDURO, Mısır Çocuk Cerrahisi Derneği) 16-19 Mayıs 2011, İstanbul, Türkiye
+
+41.	 Ö Balcı, YH Çavuşoğlu, D Erdoğan, S Apaydın, İ Karaman, ÇE Afşarlar, İF Özgüner. Niemann-Pick Hastalığı İle Birlikte Gezici Dalak Olgusu; 29. Ulusal Çocuk Cerrahisi Kongresi ((PEDURO, Mısır Çocuk Cerrahisi Derneği) 16-19 Mayıs 2011, İstanbul, Türkiye 
+
+
+
+### F) Yayınladığı Kitap Bölümleri
+
+
+1.	Çocuk Cerrahisi; Reçete Tedavi El Kitabı (2014-2015) Nobel Tıp Kitabevi
+
+2.	Torakostomi; Yenidoğan Girişimler Atlası, Sağlık Bakanlığı, 2016
+
+3.	Çocukluk Çağı Solunum Yolu ve Gastrointestinal Sistem Yabancı Cisimleri; Pediatri Dr Sami Ulus; 2021- Ankara Nobel Tıp Kitabevi
+
+4.	Dış Ürogenital Anomaliler; Çocuk Ürolojisi; 2021 US Akademi
+
+
+
+### G) Sertifikalar
+
+1.	İyi Klinik Uygulamalar Sertifikası; Mayıs 2024, Ankara, Türkiye
+
+2.	Deney Hayvanları Kullanım Sertifikası; Şubat 2013, Ankara, Türkiye
+
+3.	Neonatal Resüsitasyon Programı Uygulayıcı Sertifikası; Aralık 2008, Ankara, Türkiye
+
+
+### H) Katıldığı Kurslar
+
+1.	Çocuklarda Rijid Bronkoskopi Kursu; 09-10/04/2017 Ankara; Türkiye
+
+2.	Çocukluk Çağı Travmalarında İleri Yaşam Desteği; 23-24 Mayıs 2015, Ankara, Türkiye
+
+3.	Çocuklarda Apandisit ve Ayırıcı Tanısı Kursu; 25-16 Nisan 2015; Van, Türkiye
+
+4.	Üriner Sistem Taşları; 20 Ekim 2012, Ankara, Türkiye
+
+5.	Çocukluk Çağı İnguinal Kanal Patolojileri Tedvisi Kursu, 5 Nisan 2012 , Bursa, Türkiye
+
+6.	Çocuk Ürolojisi, 28-30 Ekim 2011, İstanbul, Türkiye
+
+7.	Çocuklarda Temel Endoskopi ve Endoskopik Cerrahi Kursu; 9-10 Nisan 2011, Samsun, Türkiye
+
+8.	Yenidoğan Cerrahisi Kursu; Mart- Mayıs 2010, Isparta, Türkiye
+
+9.	Çocuklarda Enteral ve Parenteral Beslenme,30 Eylül 2009, Malatya, Türkiye
+
+10.	 Çocuklarda Cerrahi Göğüs Hastalıkları Kursu; Haziran-Eylül 2009, Malatya, Türkiye
+
+
+### I) Topantı, Kongre ve Workshop Katılımları
+
+
+1.	40. Ulusal Çocuk Cerrahisi Kongresi; 25-29 Ekim 2023; Ankara, Türkiye
+
+2.	39. Ulusal Çocuk Cerrahisi Kongresi; 2-5 Kasım 2022; Kuşadası, Türkiye
+
+3.	12. Ulusal Çocuk Ürolojisi Kongresi; 2-5 Kasım 2022; Kuşadası, Türkiye
+
+4.	PAAFIS 2021- 6th Pediatric Adolescent Adult Foregut Interdiciplinary Symposium 2021; 25-25 Eylül 2021; Ankara, Türkiye
+
+5.	37. Ulusal Çocuk Cerrahisi Kongresi; 15-19 Ekim 2019; Ankara, Türkiye
+
+6.	32. Ulusal Çocuk Cerrahisi Kongresi; 17-20 Eylül 2014; Trabzon, Türkiye
+
+7.	30. Ulusal Çocuk Cerrahisi Kongresi; 17-20 Ekim 2012, Ankara, Türkiye
+
+8.	3. Ulusal Çocuk Ürolojisi Kongresi (Accredited by EACCME) 5-7 Nisan 2012, Bursa, Türkiye
+
+9.	27. Ulusal Çocuk Cerrahisi Kongresi; 30 Eylül- 3 Kasım 2009; Malatya, Türkiye
+
+10.	26. Ulusal Çocuk Cerrahisi Kongresi (Accredited by EACCME) 16-18 Haziran 2008, İstanbul, Türkiye
+
+11.	 18. Uluslararası Pediatrik Kolorektal Kulübu Toplantısı, Ankara, 10-12 Haziran 2011
+
+12.	 2011 Kloakal Malformasyonlar Workshop, Ankara, 10 Haziran, 2011 (Lectured By Alberto Pena & Andrea Bischoff )
+
