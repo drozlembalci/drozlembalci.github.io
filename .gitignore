@@ -31,3 +31,5 @@ cv-modern-format
 cv-twentyseconds-format
 manzana
 resume
+*.docx
+*.doc
